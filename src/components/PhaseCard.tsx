@@ -1,4 +1,4 @@
-git remote add origin <your-github-repo-url>import React from 'react';
+import React from 'react';
 import { Phase, EmployeeData } from '../types';
 import TaskSection from './TaskSection';
 
